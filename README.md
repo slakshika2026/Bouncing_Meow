@@ -21,28 +21,9 @@ Go_Bird is a simple Java-based 2D game. The player controls a bird that flies th
 ## Prerequisites
 To run Go_Bird, ensure that you have the following installed on your system:
 - Java Development Kit (JDK) 8 or later
-- Any IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or a basic text editor and terminal for compiling
+- Any IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans, VScode) or a basic text editor and terminal for compiling
 
-## How to Run the Game
-
- ### 1. Clone the repository:
-   ```
-   git clone https://github.com/your_username/Go_Bird.git
-   cd Go_Bird
-   ```
-### 2.  Compile the Java code:
-   If you're using an IDE like IntelliJ IDEA or Eclipse, you can directly import the project. Alternatively, compile the project using the terminal:
-
-   ```bash
-   javac Go_Bird.java
-   ```
-### 4.  Run the Game:
-   Once compiled, run the game:
-
-   ```
-   java Go_Bird
-   ```
-### 5.  Controls:
+### Controls:
 
    1. Press `SPACE` to make the bird fly. ⬆️
    2. Avoid the pipes! 🏗️
@@ -51,7 +32,7 @@ To run Go_Bird, ensure that you have the following installed on your system:
    
 
 
-### 6.  Game Logic
+### Game Logic
    #### Bird
    The bird's position is controlled by the player using the spacebar. The bird constantly falls due to gravity, and each spacebar press makes the bird jump upward.
 
