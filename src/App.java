@@ -15,6 +15,7 @@ public class App {
       Go_Bird go_bird = new Go_Bird();
       frame.add(go_bird);
       frame.pack();// set the color not for the title
+      go_bird.requestFocus();
       frame.setVisible(true);
    }
 }
