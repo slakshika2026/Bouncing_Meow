@@ -1,4 +1,4 @@
-# Go_Bird
+# Go_Bird 🐤
 
 Go_Bird is a simple Java-based 2D game. The player controls a bird that flies through randomly generated pipes, trying to avoid collisions and achieve the highest score.
 
